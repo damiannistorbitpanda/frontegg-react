@@ -6,8 +6,8 @@ import './index.css';
 import { FronteggProvider } from '@frontegg/react';
 
 const contextOptions = {
-    baseUrl: 'https://auth.loudapi.com',
-    clientId: '93447df4-edcc-45e5-8664-9fb8c196cf44'
+    baseUrl: 'https://app-wdsf50edp7my.frontegg.com',
+    clientId: '89681848-7b39-446c-8bc9-6d1991fcfb3a'
 };
 
 ReactDOM.render(
